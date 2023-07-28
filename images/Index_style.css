@@ -1,0 +1,49 @@
+
+header h1{
+    color: blue;
+    background-color: rgb(156, 168, 180);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-default ul li{
+    font-family: serif;
+    font-weight: bold;
+    font-size: large;
+}
+.container{
+    position:absolute;
+    top: 70%;
+    background-color: olive;
+    margin-bottom: 80%;
+}
+.container .card-body img{
+    height: 120px;
+    width: 140px;
+}
+.card-body p{
+    font-size: 15px;
+}
+.container2{
+    position: absolute;
+    top: 0%;
+    left:40%;
+}
+.container2 .card-body img{
+    height: 120px;
+    width: 150px;
+}
+.container3{
+    position: absolute;
+    top: 0%;
+    left:80%;
+}
+.container3 .card-body img{
+    height: 120px;
+    width: 150px;
+}
+.card{
+    position: absolute;
+    left: 6%;
+}
+
+
